@@ -1,0 +1,12 @@
+[
+  {
+    "url": "/path/url",
+    "type": "read",
+    "rolesList": "ALL"
+  },
+  {
+    "url": "/doctor/filter",
+    "type": "read",
+    "rolesList": "DOCTOR"
+  }
+]
